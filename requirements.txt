@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-openai
+dotenv
+langchain-groq
+
+# Development dependencies
+ipykernel
